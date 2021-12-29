@@ -1,0 +1,6 @@
+structs.c:7:6:initPid	16	static
+structs.c:17:6:initFlipperController	24	static
+structs.c:31:6:initTrackController	24	static
+structs.c:42:6:initManipulator	24	static
+structs.c:55:6:initMasterTweak	16	static
+structs.c:63:6:initMaster	16	static
